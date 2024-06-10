@@ -20,6 +20,7 @@ dependencies = [
     "mizani>=0.11.4",
     "scikit-learn>=1.5.0",
     "sklearn-pandas>=2.2.0",
+    "catboost>=1.2.5",
 ]
 requires-python = "==3.11.*"
 readme = "README.md"
