@@ -22,7 +22,7 @@ dependencies = [
     "sklearn-pandas>=2.2.0",
     "catboost>=1.2.5",
     "cupy>=13.1.0",
-    "cudf>=0.6.1.post1",
+    "seaborn>=0.13.2",
 ]
 requires-python = "==3.11.*"
 readme = "README.md"
