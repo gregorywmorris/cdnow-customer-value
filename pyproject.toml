@@ -7,26 +7,21 @@ authors = [
 ]
 dependencies = [
     "ipykernel>=6.29.4",
+    "pandas>=2.2.2",
+    "seaborn>=0.13.2",
     "matplotlib>=3.9.0",
     "plotly>=5.22.0",
-    "pandas>=2.2.2",
     "statsmodels>=0.14.2",
     "xgboost>=2.0.3",
-    "sqlalchemy>=2.0.30",
-    "fastapi>=0.111.0",
-    "uvicorn>=0.30.1",
-    "plydata>=0.4.3",
-    "plotnine>=0.13.6",
-    "mizani>=0.11.4",
-    "scikit-learn>=1.5.0",
-    "sklearn-pandas>=2.2.0",
     "catboost>=1.2.5",
-    "cupy>=13.1.0",
-    "seaborn>=0.13.2",
+    "scikit-learn>=1.5.0",
+    "plotnine>=0.13.6",
+    "plydata>=0.4.3",
+    "cupy-cuda12x>=13.1.0",
 ]
 requires-python = "==3.11.*"
 readme = "README.md"
-license = {text = "NONE"}
+license = {text = "MIT"}
 
 
 [tool.pdm]
