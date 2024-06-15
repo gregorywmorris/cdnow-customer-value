@@ -1,4 +1,4 @@
-# Customer Lifetime Value & RFM Analysis using Machine Learning.
+# Customer Lifetime Value & RFM Analysis using Machine Learning
 
 ![cdnow logo](images/cdnow-logo.jpg)
 
@@ -15,6 +15,12 @@ In 2013 CDNow was completely taken offline.
 # Comprehensive Strategic Recommendations Report
 
 ## Executive Overview
+
+### Priority Concern
+
+This report analyzes customer acquisition patterns from Q1 1997 through June 1998. All customers were acquired in the first quarter of 1997 and no additional customers through June of 1998. Customer acquisition should be a top priority considering the strategies presented.
+
+### Recommended Strategies
 
 ### 1. Customer Engagement and Retention Strategies
 
