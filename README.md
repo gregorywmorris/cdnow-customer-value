@@ -19,7 +19,7 @@ In 2013 CDNow was completely taken offline.
 
 ### Priority Concern
 
-1. This report analyzes customer acquisition patterns from Q1 1997 through June 1998. All customers were acquired in the first quarter of 1997 and no additional customers through June of 1998. Customer acquisition should be a top priority considering the strategies presented.
+1. This report analyzes customer patterns from Q1 1997 through June 1998. All customers were acquired in the first quarter of 1997 and no additional customers through June of 1998. Customer acquisition should be a top priority. The Recommended Strategies presented only address our current customer base due to the limitations of the given data. An additional analysis is needed for customer acquisition.
 
 1. From our current customer base, only 3301 customers purchased in the last 90 days out of 23570. That is 14.01%.
 
@@ -130,9 +130,9 @@ Incentive Programs:
 * **High-Value Segmentation:** The orange points indicate that recent spenders are distributed across various purchase frequencies, though more frequent purchasers tend to spend more. This segmentation can help in creating targeted marketing campaigns for high-value customers.
 * **High-Value Re-engagement:** The presence of blue points among high spenders suggests there are customers with high historical spending who have not engaged recently. These customers are prime targets for re-engagement campaigns to encourage them to resume purchasing.
 
-#### Frequency by Spend 90-day flag
+#### Frequency by Spend 90 day flag
 
-* **Distinct Purchase Behaviors:** There is a clear distinction between the purchase frequencies of the two groups. Customers with a spend_90_flag of 1.0 generally have a higher number of purchases compared to those with a spend_90_flag of 0.0.
+* **Distinct Purchase Behaviors:** There is a clear distinction between the purchase frequencies of the two groups. Customers who purchased in the last 90 days generally have a higher number of purchases compared to those who have not purchased in the last 90 days.
 * **Engagement Indicator:** Higher purchase frequency is a strong indicator of customer engagement and spending behavior. The significant difference in medians between the two groups highlights the importance of frequent engagement to drive higher spending.
 
 ### Monetary Segmentation
@@ -143,19 +143,19 @@ Incentive Programs:
 
 * **Skewed Distribution:** The distribution is heavily right-skewed, indicating that most customers spend relatively little, while a few customers spend significantly more. This is typical in many businesses where a small number of customers account for a large portion of revenue.
 * **Majority Low Spend:** The majority of customers have a total spend below $2,000, indicating a large base of low-spending customers.
-* **High-Value Customers:** There are outliers with very high total spends. These customers are likely very loyal and represent a significant portion of the business's revenue. Special attention to these customers can ensure their continued engagement and satisfaction.
+* **High-Value Customers:** There are outliers with very high total spend. These customers are likely very loyal and represent a significant portion of the business's revenue. Special attention to these customers can ensure their continued engagement and satisfaction.
 
 #### Spend vs Frequency
 
 * **Positive Correlation:** There is a positive correlation between the number of purchases and total spending. Customers who make more purchases tend to spend more overall.
-* **Recent Engagement and Spending:** Customers with spend_90_flag of 1.0 (orange points) are generally more frequent buyers and have higher total spending, indicating that recent engagement correlates with higher spending.
-* **Re-Engagement Opportunity:** Customers with spend_90_flag of 0.0 (blue points) who have high total spends but have not purchased in the last 90 days are prime candidates for re-engagement campaigns. This suggests that while they were previously high spenders, they may need incentives to make new purchases.
+* **Recent Engagement and Spending:** Customers who purchased in the last 90 days (orange points) are generally more frequent buyers and have higher total spending, indicating that recent engagement correlates with higher spending.
+* **Re-Engagement Opportunity:** Customers who have not purchased in the last 90 days (blue points) and have high total spend are prime candidates for re-engagement campaigns. This suggests that while they were previously high spenders, they may need incentives to make new purchases.
 
 #### Spend by Spend Flag
 
-* **Higher Spend with Recent Purchases:** Customers with a spend_90_flag of 1.0 have a higher median total spend compared to those with a spend_90_flag of 0.0. This indicates that recent engagement is associated with higher spending.
+* **Higher Spend with Recent Purchases:** Customers who purchased in the last 90 days have a higher median total spend compared to those who have not. This indicates that recent engagement is associated with higher spending.
 * **Value of Recent Engagement:** The higher spend of recently engaged customers highlights the importance of continuous customer interaction to drive revenue.
-* **Targeting High-Spend Dormant Customers:** There are customers with high total spend among those with spend_90_flag of 0.0. Targeting these customers with personalized marketing efforts could potentially reactivate their spending behavior.
+* **Targeting High-Spend Dormant Customers:** There are customers with high total spend among those who have purchased in the last 90 days. Targeting these customers with personalized marketing efforts could potentially reactivate their spending behavior.
 
 ### Customer Segmentation
 
@@ -175,7 +175,7 @@ Incentive Programs:
 * **Targeted Re-Engagement:** Personalized re-engagement strategies such as tailored discounts, loyalty rewards, and exclusive offers could motivate these customers to make a purchase.
 * **Understanding Barriers:** Understanding why these high-value customers have a low probability of purchase is crucial. Surveys or feedback mechanisms can help identify barriers to purchase and inform more effective re-engagement strategies.
 
-#### 3. High Probability & High Spend (Orange Points)
+#### 3. High Probability & High Spend (Red Points)
 
 * **Highly Engaged and Valuable:** These customers are highly engaged and expected to spend significantly. They are critical to maintaining the business's revenue stream.
 * **Retention Strategies:** Ensuring the satisfaction and continued engagement of these customers is essential. Loyalty programs, personalized experiences, and VIP services can help retain these high-value customers.
