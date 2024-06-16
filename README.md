@@ -1,4 +1,4 @@
-# Customer Lifetime Value & RFM Analysis using Machine Learning
+# Customer Lifetime Value & RFM Analysis Using Machine Learning
 
 ![cdnow logo](images/cdnow-logo.jpg)
 
@@ -130,7 +130,7 @@ Incentive Programs:
 * **High-Value Segmentation:** The orange points indicate that recent spenders are distributed across various purchase frequencies, though more frequent purchasers tend to spend more. This segmentation can help in creating targeted marketing campaigns for high-value customers.
 * **High-Value Re-engagement:** The presence of blue points among high spenders suggests there are customers with high historical spending who have not engaged recently. These customers are prime targets for re-engagement campaigns to encourage them to resume purchasing.
 
-#### Frequency by Spend 90 day flag
+#### Frequency by Spend and 90 day flag
 
 * **Distinct Purchase Behaviors:** There is a clear distinction between the purchase frequencies of the two groups. Customers who purchased in the last 90 days generally have a higher number of purchases compared to those who have not purchased in the last 90 days.
 * **Engagement Indicator:** Higher purchase frequency is a strong indicator of customer engagement and spending behavior. The significant difference in medians between the two groups highlights the importance of frequent engagement to drive higher spending.
@@ -183,7 +183,7 @@ Incentive Programs:
 
 ## Customer Detail: Top 10, Last 90-Days, index is the customer ID
 
-### Customers that have the highest spend probability in the next 90-days
+### Customers that have the highest spend probability in the next 90 days
 
 ![Chart: Highest Spend Probability](images/spend_prob_90_days.png)
 
