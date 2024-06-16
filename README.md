@@ -62,7 +62,7 @@ Segment-Based Campaigns:
 Low-Value Customers:
 
 Improving Engagement: For low-spend customers, target them with special promotions, personalized offers, and new product announcements to increase their engagement and spending.
-Understanding Barriers: Conduct surveys or feedback mechanisms to understand why some customers have low spend despite previous engagement. Address these barriers to improve their purchasing behavior.
+Understanding Barriers: Conduct surveys or feedback mechanisms to understand why some customers have low spending despite previous engagement. Address these barriers to improve their purchasing behavior.
 
 High-Value Dormant Customers:
 
