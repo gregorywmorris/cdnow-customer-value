@@ -12,13 +12,16 @@ In 2013 CDNow was completely taken offline.
 
 [Customer LTV Notebook](src/notebooks/customer_ltv.ipynb)
 
+<!-- trunk-ignore(markdownlint/MD025) -->
 # Comprehensive Strategic Recommendations Report
 
 ## Executive Overview
 
 ### Priority Concern
 
-This report analyzes customer acquisition patterns from Q1 1997 through June 1998. All customers were acquired in the first quarter of 1997 and no additional customers through June of 1998. Customer acquisition should be a top priority considering the strategies presented.
+1. This report analyzes customer acquisition patterns from Q1 1997 through June 1998. All customers were acquired in the first quarter of 1997 and no additional customers through June of 1998. Customer acquisition should be a top priority considering the strategies presented.
+
+1. From our current customer base, only 3301 customers purchased in the last 90 days out of 23570. That is 14.01%.
 
 ### Recommended Strategies
 
@@ -32,7 +35,7 @@ High-Value Customers:
 Low-Engagement Customers:
 
 * **Reactivation Campaigns:** For customers with a high historical spend but low recent engagement, create targeted reactivation campaigns. Utilize personalized discounts, special promotions, and reminder emails to encourage these customers to return.
-Cost-Effective Strategies: For low spend and low probability customers, use cost-effective re-engagement strategies like email marketing and social media campaigns to improve engagement without significant investment.
+Cost-Effective Strategies: For low-spend and low-probability customers, use cost-effective re-engagement strategies like email marketing and social media campaigns to improve engagement without significant investment.
 
 Feedback and Personalization:
 
@@ -158,6 +161,8 @@ Incentive Programs:
 
 ![Customer Segmentation Graph](images/customer_segmentation_prob_of_spend.png)
 
+![Individual Customer Segmentation Graph](images/customer_segmentation_prob_of_spend_2.png)
+
 #### 1. Low Probability & Low Spend (Blue Points)
 
 * **Low Engagement:** These customers are likely less engaged with the business and may not find current products or offers appealing.
@@ -176,7 +181,7 @@ Incentive Programs:
 * **Retention Strategies:** Ensuring the satisfaction and continued engagement of these customers is essential. Loyalty programs, personalized experiences, and VIP services can help retain these high-value customers.
 * **Upsell and Cross-Sell Opportunities:** These customers are prime candidates for upselling and cross-selling. Personalized recommendations based on their purchase history can increase their average order value.
 
-## Customer Detail: Top 10, Last 90-Days
+## Customer Detail: Top 10, Last 90-Days, index is the customer ID
 
 ### Customers that have the highest spend probability in the next 90-days
 
