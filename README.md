@@ -40,7 +40,7 @@ Cost-Effective Strategies: For low-spend and low-probability customers, use cost
 Feedback and Personalization:
 
 * **Customer Feedback:** Solicit feedback from both high-frequency and low-frequency customers to understand their preferences and barriers to purchase. Use this information to tailor marketing efforts and improve customer satisfaction.
-* **Continuous Monitoring:** Regularly analyze customer behavior and segmentation data to identify shifts and trends. Adjust marketing strategies in real-time to address any emerging patterns promptly.
+* **Continuous Monitoring:** Regularly analyze customer behavior and segmentation data to identify shifts and trends. Adjust marketing strategies in real time to address any emerging patterns promptly.
 
 ### 2. Purchase Frequency and Spend Strategies
 
@@ -130,7 +130,7 @@ Incentive Programs:
 * **High-Value Segmentation:** The orange points indicate that recent spenders are distributed across various purchase frequencies, though more frequent purchasers tend to spend more. This segmentation can help in creating targeted marketing campaigns for high-value customers.
 * **High-Value Re-engagement:** The presence of blue points among high spenders suggests there are customers with high historical spending who have not engaged recently. These customers are prime targets for re-engagement campaigns to encourage them to resume purchasing.
 
-#### Frequency by Spend and 90 day flag
+#### Frequency by Spend and 90-day flag
 
 * **Distinct Purchase Behaviors:** There is a clear distinction between the purchase frequencies of the two groups. Customers who purchased in the last 90 days generally have a higher number of purchases compared to those who have not purchased in the last 90 days.
 * **Engagement Indicator:** Higher purchase frequency is a strong indicator of customer engagement and spending behavior. The significant difference in medians between the two groups highlights the importance of frequent engagement to drive higher spending.
@@ -154,7 +154,7 @@ Incentive Programs:
 #### Spend by Spend Flag
 
 * **Higher Spend with Recent Purchases:** Customers who purchased in the last 90 days have a higher median total spend compared to those who have not. This indicates that recent engagement is associated with higher spending.
-* **Value of Recent Engagement:** The higher spend of recently engaged customers highlights the importance of continuous customer interaction to drive revenue.
+* **Value of Recent Engagement:** The higher spending of recently engaged customers highlights the importance of continuous customer interaction to drive revenue.
 * **Targeting High-Spend Dormant Customers:** There are customers with high total spend among those who have purchased in the last 90 days. Targeting these customers with personalized marketing efforts could potentially reactivate their spending behavior.
 
 ### Customer Segmentation
@@ -181,7 +181,7 @@ Incentive Programs:
 * **Retention Strategies:** Ensuring the satisfaction and continued engagement of these customers is essential. Loyalty programs, personalized experiences, and VIP services can help retain these high-value customers.
 * **Upsell and Cross-Sell Opportunities:** These customers are prime candidates for upselling and cross-selling. Personalized recommendations based on their purchase history can increase their average order value.
 
-## Customer Detail: Top 10, Last 90-Days, index is the customer ID
+## Customer Detail: Top 10, Last 90-Days, the index is the customer ID
 
 ### Customers that have the highest spend probability in the next 90 days
 
