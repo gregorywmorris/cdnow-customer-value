@@ -1,3 +1,4 @@
+<!-- trunk-ignore-all(prettier) -->
 # Customer Lifetime Value & RFM Analysis Using Machine Learning
 
 ![cdnow logo](images/cdnow-logo.jpg)
@@ -11,6 +12,13 @@ In 2013 CDNow was completely taken offline.
 [CDNow dataset](https://www.kaggle.com/datasets/woody123/cdnow-dataset)
 
 [Customer LTV Notebook](src/notebooks/customer_ltv.ipynb)
+
+<!-- trunk-ignore(markdownlint/MD001) -->
+#### Environment setup
+
+1. Install anaconda or miniconda
+1. Run `./setup_env.sh`
+1. Run `conda activate cdnow`
 
 <!-- trunk-ignore(markdownlint/MD025) -->
 # Comprehensive Strategic Recommendations Report
