@@ -1,3 +1,4 @@
+<!-- rmarkdown v1 -->
 # Comprehensive Strategic Recommendations Report
 
 ## Executive Overview
