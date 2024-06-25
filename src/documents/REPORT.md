@@ -78,7 +78,7 @@ Incentive Programs:
 
 ### Recency Segmentation
 
-![Recency Segmentation Graph](images/recency_segmentation.png)
+![Recency Segmentation Graph](../../images/recency_segmentation.png)
 
 #### Recency Distribution
 
@@ -100,7 +100,7 @@ Incentive Programs:
 
 ### Frequency Segmentation
 
-![Frequency Segmentation Graph](images/frequency_segmentation.png)
+![Frequency Segmentation Graph](../../images/frequency_segmentation.png)
 
 #### Frequency Distribution
 
@@ -122,7 +122,7 @@ Incentive Programs:
 
 ### Monetary Segmentation
 
-![Monetary Segmentation Graph](images/monetary_segmentation.png)
+![Monetary Segmentation Graph](../../images/monetary_segmentation.png)
 
 #### Monetary (Price Sum) Distribution
 
@@ -144,9 +144,9 @@ Incentive Programs:
 
 ### Customer Segmentation
 
-![Customer Segmentation Graph](images/customer_segmentation_prob_of_spend.png)
+![Customer Segmentation Graph](../../images/customer_segmentation_prob_of_spend.png)
 
-![Individual Customer Segmentation Graph](images/customer_segmentation_prob_of_spend_2.png)
+![Individual Customer Segmentation Graph](../../images/customer_segmentation_prob_of_spend_2.png)
 
 #### 1. Low Probability & Low Spend (Blue Points)
 
@@ -170,18 +170,18 @@ Incentive Programs:
 
 ### Customers that have the highest spend probability in the next 90 days
 
-![Chart: Highest Spend Probability](images/spend_prob_90_days.png)
+![Chart: Highest Spend Probability](../../images/spend_prob_90_days.png)
 
 ### Customers who have recently purchased but are unlikely to buy
 
-![Chart: Customer Churn](images/customer_churn.png)
+![Chart: Customer Churn](../../images/customer_churn.png)
 
 ### Missed opportunities: spenders that could be unlocked
 
 #### Predicted spenders who did not make a purchase
 
-![Chart: Missed Opportunities](images/missed_opportunities.png)
+![Chart: Missed Opportunities](../../images/missed_opportunities.png)
 
 #### Customers that spent less than predicted
 
-![Chart: Under Spending](images/under_spending.png)
+![Chart: Under Spending](../../images/under_spending.png)
